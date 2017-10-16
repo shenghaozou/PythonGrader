@@ -4,7 +4,7 @@ This is my auto-grading scripts for Python course CS301 in University of Wiscons
 # How to Download
 Download the code by running:
 git clone https://github.com/shenghaozou/PythonGrader.git (You need install git first)
-Or click the 'Clone or download' button in "https://github.com/shenghaozou/PythonGrader".(You don't need to install git)
+Or click the 'Clone or download' button in https://github.com/shenghaozou/PythonGrader. (You don't need to install git)
 Currently it can only download all files including other grading scripts. 
 
 # How to Run
