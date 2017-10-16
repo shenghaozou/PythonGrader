@@ -1,3 +1,8 @@
+*.swp
+*.backup
+*.csv#
+*.xlsx#
+*.bak
 *.xlsx
 *.html
 *.csv
@@ -5,6 +10,7 @@
 *.gz
 *.zip
 *.pyc
+/P5/tmp
 /P5/submissions
 /P5/bad-submissions
 
