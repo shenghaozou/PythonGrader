@@ -1,0 +1,1 @@
+Enter random seed value:[\z\s\n]*?How many shots did Hobbes take\?[\z\s\n]*?How far is it to Hobbes' home\?
