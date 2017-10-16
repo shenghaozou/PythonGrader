@@ -1,0 +1,1 @@
+Welcome to the Iron Bank of Braavos.\s*?Please set your password:[\s\z\n]*?Warning!\s*?Please ensure letters are not repeated.[\s\z\n]*?Warning!\s*?Please ensure password contains an even number of vowels.[\s\z\n]*?Sorry, your password does not meet our criteria.

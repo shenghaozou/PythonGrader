@@ -1,0 +1,7 @@
+*.7z
+*.gz
+*.zip
+*.pyc
+/P5/submissions
+/P5/bad-submissions
+
