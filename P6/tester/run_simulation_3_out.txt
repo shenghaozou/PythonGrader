@@ -1,0 +1,10 @@
+Enter random seed value:
+How many shots did Hobbes take?
+How far is it to Hobbes' home?
+
+Hole position is 3
+Level is 3
+Step length is 2
+Step pattern is 6 forward and 4 backward
+
+Hurray! Hobbes makes it through the day!
