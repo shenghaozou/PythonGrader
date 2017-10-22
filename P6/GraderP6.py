@@ -248,9 +248,10 @@ class Grader():
                         testRes['student_return_val'] = None
                 if 'stdout_pat' in test.keys():
                     if 'stdout_pat_setting' in test.keys():
-                        testRes['stdout_pat'] = re.search(test['stdout_pat'], mystdout.getvalue()) != None
-                    else:
                         testRes['stdout_pat'] = re.search(test['stdout_pat'], mystdout.getvalue(), test['stdout_pat_setting']) != None
+                    else:
+			testRes['stdout_pat'] = re.search(test['stdout_pat'], mystdout.getvalue()) != None
+                  
                     testRes['student_output'] = mystdout.getvalue()
                 res[key].append(testRes)
             
