@@ -1,0 +1,6 @@
+Your day contains:
+0 : 15 minute
+1 : 60 minute
+2 : 15 minute
+
+

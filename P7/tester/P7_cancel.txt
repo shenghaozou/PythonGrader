@@ -1,0 +1,15 @@
+Your day contains:
+0 : 30 minute
+1 : 60 minute
+2 : 60 minute
+Which massage do you want to cancel\?
+Make a selection:
+1\. Add a massage to my schedule
+2\. View my current schedule
+3\. Cancel a massage from my schedule
+4\. Calculate fundraising total
+5\. Quit
+Your selection:
+Your day contains:
+0 : 60 minute
+1 : 60 minute
